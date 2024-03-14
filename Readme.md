@@ -4,7 +4,7 @@ This is a simplified version of a banking system application based on the clean 
 
 ## How to Execute
 
-1. Unzip the folder into a respository
+1. Clone the repository.
 2. Ensure you have Python 3.x installed.
 3. Navigate to the banking_system directory.
 4. Create a virtualenv using `python3 -m venv env`.
